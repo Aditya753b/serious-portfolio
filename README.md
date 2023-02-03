@@ -1,28 +1,34 @@
-# Serious Portfolio 
+# Serious Portfolio
 
 Portfolio for 2023
 
 ## Getting Started
 
-To setup this project on your system, you need
+To run this application you need:
 
-* **Git**
-* **Nodejs**
-* **Npm / Yarn** (Package manager)
+* [Node.js](https://nodejs.org/en/) 
+* [Npm / Yarn](https://www.npmjs.com/package/yarn)
+* [Git](https://git-scm.com/)
 
-### Installation
+First clone this repo
 
-Then run these following commands on your Terminal or Command prompt
-### Run
-``` bash
-
-$ git clone https://github.com/samyabrata-maji/serious-portfolio.git
-
-$ cd serious-portfolio
-
-$ npm install -g yarn
-
-$ yarn install
-
-$ yarn dev
 ```
+git clone https://github.com/samyabrata-maji/serious-portfolio.git
+```
+
+Install yarn
+
+```
+npm install -g yarn
+```
+Next install related packages 
+
+```
+yarn install 
+```
+
+To start the application in **development mode**, run:
+```
+yarn dev
+```
+Finally u are good to go :blush: Found any bug?:bug: Feel free to report it.
